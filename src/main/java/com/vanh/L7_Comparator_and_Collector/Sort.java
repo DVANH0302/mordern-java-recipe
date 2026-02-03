@@ -26,7 +26,7 @@ public class Sort {
         List<String> sortedStrList = strList.stream().sorted((s1, s2) -> s2.length() - s1.length()).collect(Collectors.toList());
         System.out.println(sortedStrList);
 
-        Map
+
 
     }
 }
