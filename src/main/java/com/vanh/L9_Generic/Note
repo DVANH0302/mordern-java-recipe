@@ -1,0 +1,5 @@
+PECS = Producer extend, Consumer super
+
+Use:
+    - Extends when you want to get value
+    - Super when you want to put value
